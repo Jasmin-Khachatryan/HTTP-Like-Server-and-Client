@@ -20,10 +20,6 @@ The server serves **plain text files** from a directory, and the client can send
 - **Interactive client** – choose request type and input data at runtime.
 
 ---
-Got it — here is a **fully copy-friendly**, clean README text in **one block**, **no code fences**, no formatting that prevents copying.
-Just plain Markdown with headings and indentation you can paste directly.
-
----
 
 # How to Compile
 
